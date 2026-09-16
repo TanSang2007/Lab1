@@ -24,14 +24,12 @@ label {
     width: 15em;
     margin-bottom: .5em;
 }
+#data span {
+    padding-left: .25em;
+}
 #buttons input {
-    float: left;
     margin-bottom: .5em;
 }
 br {
     clear: left;
-}
-.error {
-    color: red;
-    font-weight: bold;
 }
